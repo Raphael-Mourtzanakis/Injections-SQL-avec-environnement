@@ -1,0 +1,17 @@
+{
+    "name": "rmour/injectionssqlavecenvironnement",
+    "autoload": {
+        "psr-4": {
+            "Rmour\\Injectionssqlavecenvironnement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raphaël Mourtzanakis",
+            "email": "raphael.mourtzanakis@lmdsio.fr"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
